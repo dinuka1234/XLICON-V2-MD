@@ -6,7 +6,7 @@
   "scripts": {
     "start": "pm2 start index.js --attach --no-daemon"
   },
-  "author": "XLIOCN V2",
+  "author": "2",
   "license": IT",
   "private": true,
   "keywords": [],
